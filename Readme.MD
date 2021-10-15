@@ -7,7 +7,7 @@
 2. GUI with Pandas
 3. Turtle
 
-<img src="img/screenshot-1.png"></img>
+<img src="img/screenshot-1.png" alt="app image"></img>
 
 
 #### Contributer
